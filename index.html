@@ -29,6 +29,28 @@ h1.h1text {
   text-shadow: 2px 2px white;
   text-align: center;
   }
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.menu li {
+    padding: 8px;
+    margin-bottom: 7px;
+    background-color: #3f51b5;
+    color: white;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+	-webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+	text-decoration: none;
+	text-shadow:2px 2px black ;
+}
+.menu li:hover {
+	background-color: #555555;
+    color: white;
+	text-shadow:2px 2px black ;
+}
+
 </style>
 <script>
 function w3_open() {
@@ -46,9 +68,9 @@ function w3_close() {
   </head>
   <body>
 <div class="w3-sidebar w3-bar-block w3-card-2 w3-animate-left" style="display:none" id="mySidebar">
-  <button class="w3-bar-item w3-button w3-large nunitoex" 
+  <button class="w3-bar-item w3-button w3-large" 
   onclick="w3_close()">Close &times;</button>
-<div class="menu w3-indigo nunitoex">
+<div class="menu">
   <ul>
     <li onclick='window.location.href="index.html"'>Home</li>
 	<li onclick='window.location.href="ourdogs.html"'>Our Dogs</li>
@@ -61,7 +83,7 @@ function w3_close() {
 </div>
 </div>
 <div zclass="w3-main" id="main">
-  <button class="w3-button w3-indigo w3-xlarge" onclick="w3_open()">&#9776;</button>
+  <button class="w3-button w3-xlarge" onclick="w3_open()">&#9776;</button>
   <div class="jumbotron">
 <div class="container">
 <h1 class="h1text">What is the ideology of <strong>Minecraft Servers?</strong></h1>

@@ -7,4 +7,4 @@
 
 ### If you want some yaml files, go to [/yaml/](https://github.com/Sans-Skelly/mcya.ml) directory here.
 
-#
+### If your here to do a pull request, do a pull branch on the folder [/yaml/](https://github.com/Sans-Skelly/mcya.ml) and submit your .yml files you find for each plugin. There'll be a folder for each plugin's .yml file.

@@ -5,9 +5,9 @@
 
 ### If you came here by accident, no worries. Go to [MCYA.ML](https://mcya.ml/) homepage. 
 
-### If you want some yaml files, go to [/yaml/](https://github.com/Sans-Skelly/mcya.ml) directory here and read 1.READTHIS.md file.
+### If you want some yaml files, go to [/yaml/](https://github.com/Sans-Skelly/mcya.ml/tree/master/yaml) directory here and read 1.READTHIS.md file.
 
-### If your here to do a pull request, do a pull branch on the folder [/yaml/](https://github.com/Sans-Skelly/mcya.ml) and submit your .yml files you find for each plugin. There'll be a folder for each plugin's .yml file.
+### If your here to do a pull request, do a pull branch on the folder [/yaml/](https://github.com/Sans-Skelly/mcya.ml/tree/master/yaml) and submit your .yml files you find for each plugin. There'll be a folder for each plugin's .yml file.
 
 # Why we run ads:
 
